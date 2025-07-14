@@ -2,7 +2,7 @@
 
 This project is a minimal React.js interface with a **drag-and-drop** feature. Notes can be moved freely within the container, and the system ensures that **no two notes overlap** during placement.
 
-<img width="773" height="481" alt="Screenshot 2025-07-14 150902" src="https://github.com/user-attachments/assets/e76b81e6-307d-4561-b21f-433c4b6b1125" />
+<img width="573" height="481" alt="Screenshot 2025-07-14 150902" src="https://github.com/user-attachments/assets/e76b81e6-307d-4561-b21f-433c4b6b1125" />
 
 ## 🚀 Features
 
